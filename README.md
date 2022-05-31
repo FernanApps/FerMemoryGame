@@ -1,7 +1,7 @@
 <h1 align="center">MemoryGame</h1>
 
 <p align="center">
-<a href="https://github.com/FernanApps/FerMemoryGame" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=FernanApps&message=FerMemoryGame&color=blue&logo=github" alt="FernanApps - FerMemoryGame"></a>
+<a href="https://github.com/FernanApps/FerMemoryGame" title="Go to GitHub repo"><img src="https://img.shields.io/github/v/release/FernanApps/FerMemoryGame.svg?include_prereleases=&sort=semver&color=red" alt="FernanApps - FerMemoryGame"></a>
 <br>
 <a href="https://github.com/FernanApps/FerMemoryGame/releases/latest"><img alt="GitHub release" src="https://img.shields.io/github/v/release/FernanApps/FerMemoryGame.svg?logo=github&label=GitHub&cacheSeconds=3600"/></a>
 <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
