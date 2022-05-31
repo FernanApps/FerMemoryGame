@@ -58,7 +58,7 @@ Working...
 Also, __[follow me](https://github.com/FernanApps)__ on GitHub for my next creations! 🤩
 
 ## Inspired by :heart:
-Also, __[follow](ttps://github.com/hatamiarash7/MemoryGame)__ 
+Also, __[follow](https://github.com/hatamiarash7/MemoryGame)__ 😅
 
 # License
 ```xml
