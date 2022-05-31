@@ -38,7 +38,7 @@ class MainViewModel : ViewModel() {
             if(result.isNotEmpty()){
                 themeImagesModel.postValue(result)
             } else {
-                themeImagesModel.postValue(emptyList())
+                themeImagesModel.postValue(mutableListOf())
 
             }
         }

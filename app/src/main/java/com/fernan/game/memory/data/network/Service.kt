@@ -1,5 +1,6 @@
 package com.fernan.game.memory.data.network
 
+import android.util.Log
 import com.fernan.game.memory.core.ApiHelper
 import com.fernan.game.memory.data.model.GameBean
 import com.fernan.game.memory.data.model.ThemeBean
@@ -8,6 +9,7 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.withContext
 
 class Service {
+
 
     private val retrofit = ApiHelper.getRetrofit()
     suspend fun getAllThemes(): List<ThemeBean> {

@@ -103,14 +103,19 @@ class MainActivity : AppCompatActivity() {
 
                 bin.loading.isVisible = true
 
-                var gameBeanList : ArrayList<GameBean>
+                var gameBeanList : MutableList<GameBean>
                 mainViewModel.getThemeImages(themeBean.apiUrl)
                 mainViewModel.themeImagesModel.observe(this@MainActivity,Observer{
-                    gameBeanList = it as ArrayList<GameBean>
+                    gameBeanList = it as MutableList<GameBean>
                     bin.loading.isVisible = false
 
                     changeFragment(fragment = levelFragment,fragmentName =name)
                     bin.imageBackgroundGradient.isVisible = true
+
+                    Log.d("mirando",Gson().toJson(gameBeanList))
+                    if(gameBeanList.isEmpty()){
+                        return@Observer
+                    }
                     levelFragment.onSetViews(themeBean,gameBeanList)
                 })
 

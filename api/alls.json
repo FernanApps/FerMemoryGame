@@ -2,31 +2,31 @@
   {
     "title": "Angry Birds",
     "thumbnail": "https://www.prensar.net/wp-content/uploads/2022/04/angry-birds-classic-apk-2022-731x411.jpg",
-	"background": "https://browsecat.net/sites/default/files/angry-bird-backgrounds-126752-1009525-1616052.png",
+    "background": "https://browsecat.net/sites/default/files/angry-bird-backgrounds-126752-1009525-1616052.png",
     "apiUrl": "https://api.github.com/repos/FernanApps/FerMemoryGame/contents/api/images/angryBirds?ref=main"
   },
   {
     "title": "Fornite",
     "thumbnail": "https://i.pinimg.com/originals/b7/dd/b6/b7ddb610f4647b4b10119f19cfc89ad8.jpg",
-	"background": "https://i.pinimg.com/originals/30/cf/0a/30cf0a4b5b8bb9bd3de6c8350261a662.png",
-	"apiUrl": "https://api.github.com/repos/FernanApps/FerMemoryGame/contents/api/images/fornite?ref=main"
+    "background": "https://i.pinimg.com/originals/30/cf/0a/30cf0a4b5b8bb9bd3de6c8350261a662.png",
+    "apiUrl": "https://api.github.com/repos/FernanApps/FerMemoryGame/contents/api/images/fornite?ref=main"
   },
   {
     "title": "Los Simpson",
     "thumbnail": "https://w0.peakpx.com/wallpaper/146/756/HD-wallpaper-the-simpsons-the-simpsons-movie-bart-simpson-homer-simpson-marge-simpson-thumbnail.jpg",
-	"background": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/the-simpson%27s-living-room-zoom-background-design-template-0a144384f561d786222db3f214a8042b_screen.jpg",
+    "background": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/the-simpson%27s-living-room-zoom-background-design-template-0a144384f561d786222db3f214a8042b_screen.jpg",
     "apiUrl": "https://api.github.com/repos/FernanApps/FerMemoryGame/contents/api/images/simpsons?ref=main"
   },
   {
     "title": "Emojis",
     "thumbnail": "https://math.scholastic.com/content/dam/classroom-magazines/math/issues/2020-21/090120/emojis/MA-2020901-05-STATS-EMOJIS-Thumbnail.jpg",
-	"background": "https://img.freepik.com/vector-gratis/emoticonos-fondo-espacio-vacio_79603-1023.jpg?w=2000",
+    "background": "https://img.freepik.com/vector-gratis/emoticonos-fondo-espacio-vacio_79603-1023.jpg?w=2000",
     "apiUrl": "https://api.github.com/repos/FernanApps/FerMemoryGame/contents/api/images/emojis?ref=main"
   },
   {
     "title": "Dragon Ball",
     "thumbnail": "https://static.bandainamcoent.eu/high/dragon-ball/dragonball-project-z/00-page-setup/dbzk_game-thumbnail.jpg",
-	"background": "https://www.xtrafondos.com/wallpapers/resoluciones/19/casa-kame-de-dragon-ball_2560x1440_3963.jpg",
+    "background": "https://www.xtrafondos.com/wallpapers/resoluciones/19/casa-kame-de-dragon-ball_2560x1440_3963.jpg",
     "apiUrl": "https://api.github.com/repos/FernanApps/FerMemoryGame/contents/api/images/dragonBall?ref=main"
   }
 ]

@@ -6,9 +6,9 @@ import retrofit2.http.GET
 import retrofit2.http.Url
 
 interface ApiClient {
-    @GET("/FernanApps/FerMemoryGame/main/api/alls.json")
-    suspend fun getAllThemes(): Response<List<ThemeBean>>
+    @GET("/FernanApps/FerMemoryGame/master/api/alls.json")
+    suspend fun getAllThemes(): Response<MutableList<ThemeBean>>
 
     @GET
-    suspend fun getThemeImages(@Url url: String): Response<List<GameBean>>
+    suspend fun getThemeImages(@Url url: String): Response<MutableList<GameBean>>
 }
