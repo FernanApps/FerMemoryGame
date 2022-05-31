@@ -25,7 +25,10 @@ Go to the [Releases](https://github.com/FernanApps/FerMemoryGame/releases) to do
 
 ## Preview
 
+<img src="/previews/preview.gif"/>
+<!---
 <img src="/previews/preview.gif" width="320"/>
+-->
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21
