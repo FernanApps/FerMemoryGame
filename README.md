@@ -25,7 +25,7 @@ Go to the [Releases](https://github.com/FernanApps/FerMemoryGame/releases) to do
 
 ## Preview
 
-<img src="/previews/preview.gif"/>
+<img src="/previews/preview.gif" align="center"/>
 <!---
 <img src="/previews/preview.gif" width="320"/>
 -->
